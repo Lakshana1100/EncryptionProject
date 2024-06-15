@@ -1,4 +1,4 @@
-# EncryptionProject
+# EncryptionDecryption
 
 To encrypt - python3 main.py encrypt input.txt passwordhehehe -o encrypted_file.txt
 
