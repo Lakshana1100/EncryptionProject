@@ -1,0 +1,5 @@
+{
+  "encryption_algorithm": "AES128",
+  "hash_algorithm": "SHA256",
+  "iteration_counts": [10000, 50000, 100000, 500000, 800000, 1000000, 1500000, 2000000]
+}
